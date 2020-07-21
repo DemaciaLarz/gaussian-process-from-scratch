@@ -1,4 +1,4 @@
-# Exploring-Gaussian_Processes
+# Exploring-Gaussian_Process
 Implementing a Gaussian Process (GP) from scratch over a series of notebooks.
 
 # Motivation
